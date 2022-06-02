@@ -16,7 +16,7 @@ For each of these tasks, you should create an [Issue](https://docs.github.com/en
 - [x] Open a Pull Request when a task is finished to get feedback
 
 ### Portfolio Tasks
-- [x] Task 1: Add a photo of yourself to the website
+- [o] Task 1: Add a photo of yourself to the website
 - [x] Task 2: Add an "About youself" section to the website.
 - [x] Task 3: Add your previous work experiences
 - [x] Task 4: Add your hobbies (including images)

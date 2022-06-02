@@ -51,6 +51,12 @@ body {
     padding-right: 0px;
 }
 
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .profile {
     background-color: #1d539f !important;
     text-align: center;
